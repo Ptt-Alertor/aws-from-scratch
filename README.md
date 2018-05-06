@@ -1,4 +1,4 @@
-# aws-from-scratch
+# AWS-from-Scratch
 
 learn devops on aws free tier
 
