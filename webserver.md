@@ -315,3 +315,4 @@ user data help execution all the settings when EC2 launch
 * [How to install PHP 7 on EC2 t2.micro Instance running Amazon Linux Distro
 ](https://stackoverflow.com/a/40581436/48101990)
 * [Connecting to Your Linux Instance Using SSH](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html)
+* [Creating an Auto Scaling Group Using a Launch Template](https://docs.aws.amazon.com/autoscaling/ec2/userguide/create-asg-launch-template.html)
